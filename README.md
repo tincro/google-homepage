@@ -1,0 +1,1 @@
+This is to learn git and work through The Odin Project assignments. 
