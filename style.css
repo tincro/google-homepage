@@ -1,0 +1,21 @@
+main {
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+main div {
+   display: block;
+    margin: 0 auto;
+    
+}
+
+/*img {
+    display: block;
+    margin: 0 auto;
+}*/
+
+.debug {
+    border: 1px solid red;
+}
